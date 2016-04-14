@@ -1,0 +1,22 @@
+<title>Difference between data mining and information retrieval</title>
+There is definitely a wide difference between Data mining and Information retrieval 
+
+
+Information retrieval pertains to getting back or retrieving information 
+stored in various stroage media, exactly in the same way it is stored. 
+THis means that if you were to store some information on some subject 
+say "HTTP protocol definition " or "cell phone usagein minutes in the 
+month of decemeber", this data would be retrieved in the as is stored 
+form. Thgere is no value addition to the data stored wheras 
+
+In case of Data mining, the data mining rules would reveal insight into 
+the data that is not quite obvious. Data mining consists of analytical 
+rules that sift through large amounts of data stored in various 
+enterprise databases, providing the enterprise greater insight into 
+data. Data mining is a primary tool to gather business intelligence. 
+
+Typically data mining is used for customer management, where it provides 
+interesting insight into customer behaviour, preferences which enable 
+the enterprise to align its sales/service offerings to achieve maximum 
+returns. 
+

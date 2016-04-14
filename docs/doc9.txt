@@ -1,0 +1,16 @@
+<title>Artificial Intelligence Research Area</title>
+Artificial Intelligence is a classic term that is still in use. It is used to refer to techniques that could be used to replicate intelligence. How to identify intelligence is still debated. After realizing (according to some) that full intelligence is not possible to achieve, the field was broken down in subfields like Learning, Language, Vision, etc, each focusing on a specific area of intelligence
+
+Data Mining is a way of getting information out of data, but it doesn't actually imply artificial intelligence. You can use AI to do data mining but non-AI techniques are also used.
+
+Information Retrieval is more concerned with indexing and classification. Again, you can use AI for this but it's not required. Think of Google's PageRank or a Library Index.
+
+Natural Language Processing is a field in itself but some consider it a part of AI. It deals only with processing language, written or spoken, to different ends like Human-Computer Interaction, Data analysis, subtitling and many other applications.
+
+Machine Learning is the study of techniques (and the techniques themselves) to make computers learn to solve different problems. This techniques depend on the context and can be applied in other fields (like Data Mining, Information Retrieval or Natural Language Processing).
+
+Pattern Recognition is the automated recognition of patterns, independently of where or how this patterns happen. It usually involves Machine Learning but not necessarily, and the goal is to produce a classifier that given some input it assigns a category. Again, this can be seen as part of AI.
+
+In general all the fields you mentioned are related and some can be seen to be the same or at least related, just think what the focus is. For example, Data Mining is about getting information from a lot of data and Information Retrieval tries to do the same, but the goals of both are different. The overlap is significant but they are not the same areas. The same can be said about Pattern Recognition, it could be the container for NLP, IR, DM and ML, but the focus of PR is too broad to fit each of the other fields.
+
+When in doubt, try to think what's the ultimate goal of the field and what are their tools and methods.

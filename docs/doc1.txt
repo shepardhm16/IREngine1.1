@@ -1,0 +1,2 @@
+<title>Collaborative information seeking</title>
+Collaborative information seeking (CIS) is a field of research that involves studying situations, motivations, and methods for people working in collaborative groups for information seeking projects, as well as building systems for supporting such activities. Such projects often involve information searching or information retrieval (IR), information gathering, and information sharing. Beyond that, CIS can extend to collaborative information synthesis and collaborative sense-making.
